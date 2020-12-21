@@ -1,0 +1,3 @@
+Hello. I am Kadir
+This is new file
+I am studying forking and pull request
